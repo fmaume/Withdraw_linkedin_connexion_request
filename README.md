@@ -6,7 +6,7 @@ You can use the following code to withdraw old connexion request:
 l=document.querySelector("*[data-control-name=withdraw_single]");
 if (!!l){setTimeout(function(){l.click();}, 100);
 setTimeout(function()
-{document.querySelectorAll(".artdeco-modal_confirm-dialog-btn")[1].click();},1500);
+{document.querySelectorAll(".artdeco-modal__confirm-dialog-btn")[1].click();},1500);
 setTimeout(function(){f();},2500);}};f();})()``
 
 Check out [this youtube video](https://www.youtube.com/watch?v=KX7JYqAdo1I) for more info.
