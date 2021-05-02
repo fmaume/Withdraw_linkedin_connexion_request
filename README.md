@@ -9,4 +9,4 @@ setTimeout(function()
 {document.querySelectorAll(".artdeco-modal_confirm-dialog-btn")[1].click();},1500);
 setTimeout(function(){f();},2500);}};f();})()``
 
-Check out this youtube video for more info: 
+Check out [this youtube video](https://www.youtube.com/watch?v=KX7JYqAdo1I) for more info.
